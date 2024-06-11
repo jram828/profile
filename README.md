@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián Arango</h1>
-# Professional profile
+<h2 align="left">Professional profile</h2>
 I am a dedicated Petroleum Engineer with 14 years of experience working on the oilfield, mainly as Drilling and Completions Fluids Engineer, with capacity of leadership and abilities for working on teams. 
 
 I am starting my career as Full Stack Developer, using technologies such as React, Node JS, Mongo DB, Postgres, Figma, CSS, Javascript, and willing to learn about and apply new techonologies. 
